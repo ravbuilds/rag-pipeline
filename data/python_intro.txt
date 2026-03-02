@@ -1,0 +1,9 @@
+Python Programming Introduction.
+    Python is a high-level, general-purpose programming language known for its simplicity, readability, and versatility.
+    Key Features:
+- Readability: Python's design emphasizes clean, English-like syntax and uses indentation rather than curly brackets to define code blocks, which makes it easier to learn and write programs with fewer lines of code than many other languages.
+- Interpreted Language: Code is executed line by line at runtime, which simplifies debugging and speeds up the edit-test-debug cycle.
+- Dynamically Typed: Developers do not need to declare variable types explicitly; Python determines them during runtime, offering flexibility.
+- Extensive Libraries: Python includes a large standard library and a vast ecosystem of third-party packages available through the Python Package Index (PyPI), which provide pre-written code for a wide range of tasks.
+- Multiple Paradigms: It supports various programming styles, including procedural, object-oriented, and functional programming.
+- Platform Independent: Python code can run on different operating systems like Windows, macOS, and Linux without needing major changes
